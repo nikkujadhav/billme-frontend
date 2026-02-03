@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": "9ccf",
+      "name": "",
+      "category": "Medical",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "936b",
+      "name": "",
+      "category": "Medical",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "e951",
+      "name": "",
+      "category": "Medical",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "36e4",
+      "name": "",
+      "category": "Electronics",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "c48f",
+      "name": "",
+      "category": "Medical",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": "73a7",
+      "name": "tablet",
+      "category": "Medical",
+      "type": "Injection",
+      "price": 3,
+      "quantity": 10
+    },
+    {
+      "id": "b7b2",
+      "name": "laptop",
+      "category": "Electronics",
+      "type": "Laptop",
+      "price": 1,
+      "quantity": 1
+    },
+    {
+      "id": "332a",
+      "name": "laptop",
+      "category": "Electronics",
+      "type": "Laptop",
+      "price": 3000,
+      "quantity": 1
+    },
+    {
+      "id": "a8a4",
+      "name": "syrup",
+      "category": "Medical",
+      "type": "Syrup",
+      "price": 200,
+      "quantity": 2
+    }
+  ],
+  "invoices": [],
+  "transactions": []
+}
